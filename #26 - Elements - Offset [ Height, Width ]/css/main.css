@@ -1,0 +1,16 @@
+.custom{
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+  background-color: #eee;
+  border: 20px solid #f00;
+  margin: 10px;
+  overflow: scroll/*Scroll Reduce Element Width & Height By 17px*/
+}
+
+.child{
+  height: 800px;
+  width: 800px;
+  background-color: #00f;
+  color: #fff
+}

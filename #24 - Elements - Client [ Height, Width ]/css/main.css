@@ -1,0 +1,7 @@
+.custom{
+  padding: 20px;
+  background-color: #eee;
+  border: 10px solid #ccc;
+  margin: 30px;
+  overflow: scroll
+}
